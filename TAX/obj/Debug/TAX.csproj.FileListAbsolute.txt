@@ -1,0 +1,13 @@
+C:\Users\My Dell\source\repos\TAX\bin\Debug\TAX.exe.config
+C:\Users\My Dell\source\repos\TAX\bin\Debug\TAX.exe
+C:\Users\My Dell\source\repos\TAX\bin\Debug\TAX.pdb
+C:\Users\My Dell\source\repos\TAX\obj\Debug\TAX.csprojAssemblyReference.cache
+C:\Users\My Dell\source\repos\TAX\obj\Debug\TAX.Form1.resources
+C:\Users\My Dell\source\repos\TAX\obj\Debug\TAX.Properties.Resources.resources
+C:\Users\My Dell\source\repos\TAX\obj\Debug\TAX.csproj.GenerateResource.cache
+C:\Users\My Dell\source\repos\TAX\obj\Debug\TAX.exe
+C:\Users\My Dell\source\repos\TAX\obj\Debug\TAX.pdb
+C:\Users\My Dell\source\repos\TAX\bin\Debug\TAX.exe.manifest
+C:\Users\My Dell\source\repos\TAX\bin\Debug\TAX.application
+C:\Users\My Dell\source\repos\TAX\obj\Debug\TAX.exe.manifest
+C:\Users\My Dell\source\repos\TAX\obj\Debug\TAX.application
